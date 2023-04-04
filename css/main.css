@@ -39,7 +39,7 @@ footer {
 .cv h2 { font-size: 2em; }
 .cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .cv address, .cv p { font-size: 1.2em; }
-.cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+.cv .download { float: left; font-size: .8em; text-transform: uppercase; }
 
 ul.posts { 
     margin: 20px auto 40px; 
