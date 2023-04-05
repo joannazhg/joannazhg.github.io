@@ -5,6 +5,7 @@ body {
 
 header {
     display: flex;
+    justify-content: space-between;
     justify-content: flex-end;
     align-items: center;
 }
@@ -15,11 +16,11 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
-nav ul li.name {
-    margin-right: 40px; 
-    margin-left: -40px;
-}
 
+.name {
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: bold;
+}
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
