@@ -17,6 +17,7 @@ nav ul, footer ul {
 }
 nav ul li.name {
     margin-right: 40px; 
+    margin-left: -40px;
 }
 
 nav ul li, footer ul li {
